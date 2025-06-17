@@ -1,2 +1,0 @@
-# SipMate
-bolt.new hackathon
